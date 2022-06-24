@@ -6,7 +6,7 @@ ghpages.publish(
         branch: 'main',
         repo: 'https://github.com/dalleman1/svelte-app.git', // Update to point to your repository  
         user: {
-            name: 'Morten Dalsgaard', // update to use your name
+            name: 'dalleman1', // update to use your name
             email: 'monglade.dalsgaard@gmail.com' // Update to use your email
         }
     },
